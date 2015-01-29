@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Facebook Notification System": {
+            "applicationId": "69gXshZ1vJ7voN9J3kZURsf7k2RElATwLyyLOKbV", 
+            "masterKey": "jZiubvm7chyr4Swis0xjtiiGXW0743MbJrt4Pe1a"
+        }, 
+        "_default": {
+            "link": "Facebook Notification System"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.2"
+    }
+}
